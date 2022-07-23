@@ -1,4 +1,4 @@
-## [Site link] ( https://sergiykusiy.github.io/TodoList_React-Ts/)
+
 ## Available Scripts
 
 In the project directory, you can run:

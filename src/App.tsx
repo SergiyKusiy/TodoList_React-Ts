@@ -1,6 +1,5 @@
 import React from "react";
 import Navbar from "./components/Navbar";
-import AboutPage from "./pages/AboutPage";
 import TodosPage from "./pages/TodosPage";
 
 

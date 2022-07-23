@@ -1,6 +1,6 @@
 
 ## Available Scripts
-## [Site link](https://master--jovial-lamington-5138c6.netlify.app/)
+## [Site link](https://todolist-react-ts-serhii-kusyi.netlify.app/)
 
 In the project directory, you can run:
 
